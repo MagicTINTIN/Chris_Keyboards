@@ -13,3 +13,8 @@ Somme		41,3			37,99
 
 
 https://www.amazon.fr/Clavier-Fran%C3%A7ais-Inspiron-Latitude-r%C3%A9tro%C3%A9clair%C3%A9/dp/B09P3L5J9T?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=computers&sr=1-12
+
+
+
+# https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/
+OMG
