@@ -18,3 +18,7 @@ https://www.amazon.fr/Clavier-Fran%C3%A7ais-Inspiron-Latitude-r%C3%A9tro%C3%A9cl
 
 # https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/
 OMG
+
+
+# Georges
+30 pins, 0.8mm pitch
