@@ -6,6 +6,11 @@
 - backlit
 - bluetooth
 - record macros
+- encodings : hexa decimal, binary, morse
+### Features (with screen)
+- learning
+- autocompletion and next word guess
+- Micasend connection and msg sending
 
 ### TODO:
 - [ ] buy components
